@@ -1,5 +1,11 @@
 # Cloud-Files-SDK PHP SDK
 
+<!-- simple-start:start -->
+Use Cloud-Files-SDK from a PHP app.
+
+**Start here.** Run `composer require titancsa/cloud-files-sdk`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
